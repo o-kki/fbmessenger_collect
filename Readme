@@ -1,0 +1,17 @@
+* Project
+- (Goals) Simple Forensic Facebook Messenger Collect Tools
+- (Unofficial) Facebook Messenger Message Data Collector
+
+* How to Use it
+- npm install
+- node main.js {FACEBOOK_ID} {FACEBOOK_PW} {Result Path}
+- {Result Path}: Download sent and received attachments 
+- Result: Download the data file in JSON format and the attachments in the ATTACHMENT folder.
+
+* Caution
+- Multiple uses this tools within a short period of time may result in a blocked account.
+- Don't use it bad intent and unethical use
+
+* Ref
+- Utilize the 'libfb' open source library to implement tool
+- https://www.npmjs.com/package/libfb
